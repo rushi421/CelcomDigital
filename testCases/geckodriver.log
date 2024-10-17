@@ -1,0 +1,349 @@
+1724648527850	geckodriver	INFO	Listening on 127.0.0.1:51676
+1724648530978	geckodriver	INFO	Listening on 127.0.0.1:51685
+1724648945526	geckodriver	INFO	Listening on 127.0.0.1:52214
+1724648948692	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileWo1voW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724648949042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724648949236	Marionette	INFO	Listening on port 52222
+1724648949302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724648963615	Marionette	INFO	Stopped listening on port 52222
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofile3oc7jj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724648955530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724648955781	Marionette	INFO	Listening on port 52269
+1724648955843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1724648962946	Marionette	INFO	Stopped listening on port 52269
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1724649391561	geckodriver	INFO	Listening on 127.0.0.1:60786
+1724649394804	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileVYVfdM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649395371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649395972	Marionette	INFO	Listening on port 60794
+1724649396020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649427114	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724649793874	Marionette	INFO	Stopped listening on port 60794
+Dynamically enable window occlusion 1
+p\\rust_mozprofiledQDIDR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649401961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649402198	Marionette	INFO	Listening on port 60839
+1724649402252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649431987	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724649793805	Marionette	INFO	Stopped listening on port 60839
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofile0vHmvV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649620909	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649621092	Marionette	INFO	Listening on port 60920
+1724649621152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649650934	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724649793864	Marionette	INFO	Stopped listening on port 60920
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649627649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649627839	Marionette	INFO	Listening on port 60968
+1724649627892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649657670	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724649793839	Marionette	INFO	Stopped listening on port 60968
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+ "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofile6S0s4y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649767605	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649767843	Marionette	INFO	Listening on port 61039
+1724649767904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649794443	Marionette	INFO	Stopped listening on port 61039
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofilemx0tCQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724649774187	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724649774435	Marionette	INFO	Listening on port 61086
+1724649774489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724649794506	Marionette	INFO	Stopped listening on port 61086
+Dynamically enable window occlusion 1
+1724650121597	geckodriver	INFO	Listening on 127.0.0.1:52786
+1724650124762	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileCj9N5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650125171	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650125571	Marionette	INFO	Listening on port 52794
+1724650125620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650156822	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650292510	Marionette	INFO	Stopped listening on port 52794
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650131385	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650131553	Marionette	INFO	Listening on port 52837
+1724650131704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650161415	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650292494	Marionette	INFO	Stopped listening on port 52837
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+ "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileB3SthR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650174595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650176157	Marionette	INFO	Listening on port 52897
+1724650176492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650204627	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650293061	Marionette	INFO	Stopped listening on port 52897
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650182929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650183478	Marionette	INFO	Listening on port 52946
+1724650183582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650212962	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650293103	Marionette	INFO	Stopped listening on port 52946
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofilekiY2jX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650237803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650237976	Marionette	INFO	Listening on port 53006
+1724650238506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650267837	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650293064	Marionette	INFO	Stopped listening on port 53006
+Dynamically enable window occlusion 1
+p\\rust_mozprofilezpcoKn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650244315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650244497	Marionette	INFO	Listening on port 53049
+1724650244557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650274336	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724650293031	Marionette	INFO	Stopped listening on port 53049
+Dynamically enable window occlusion 1
+1724650663042	geckodriver	INFO	Listening on 127.0.0.1:53228
+1724650666232	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofilev7tz0J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650666725	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650667100	Marionette	INFO	Listening on port 53236
+1724650667151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650698280	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435687	Marionette	INFO	Stopped listening on port 53236
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724650672961	Marionette	INFO	Listening on port 53282
+1724650673106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650702806	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435476	Marionette	INFO	Stopped listening on port 53282
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724650758657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724650758877	Marionette	INFO	Listening on port 53349
+1724650758945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650788686	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435809	Marionette	INFO	Stopped listening on port 53349
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724650766886	Marionette	INFO	Listening on port 53394
+1724650766970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724650796666	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435579	Marionette	INFO	Stopped listening on port 53394
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+198	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724651508425	Marionette	INFO	Listening on port 57001
+1724651508478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651538230	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435470	Marionette	INFO	Stopped listening on port 57001
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724651514958	Marionette	INFO	Listening on port 57047
+1724651515023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651544662	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435352	Marionette	INFO	Stopped listening on port 57047
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724651554079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724651554261	Marionette	INFO	Listening on port 57113
+1724651554411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651584108	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435463	Marionette	INFO	Stopped listening on port 57113
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724651560634	Marionette	INFO	Listening on port 57160
+1724651560682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651590461	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435659	Marionette	INFO	Stopped listening on port 57160
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724651606224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724651606441	Marionette	INFO	Listening on port 57243
+1724651606498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651636258	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435464	Marionette	INFO	Stopped listening on port 57243
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724651612968	Marionette	INFO	Listening on port 57289
+1724651613025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651642792	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435475	Marionette	INFO	Stopped listening on port 57289
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724651642435	Marionette	INFO	Listening on port 57363
+1724651642490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651648460	Marionette	INFO	Stopped listening on port 57363
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideSeconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724651648860	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724651649157	Marionette	INFO	Listening on port 57412
+1724651649223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651678893	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435523	Marionette	INFO	Stopped listening on port 57412
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ow occlusion 0
+1724651666326	Marionette	INFO	Listening on port 57462
+1724651666391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651670931	Marionette	INFO	Stopped listening on port 57461724651672412	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofilef01YBm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1724651672770	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1724651672984	Marionette	INFO	Listening on port 57508
+1724651673044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724651702811	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1724690435454	Marionette	INFO	Stopped listening on port 57508
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1727318870981	geckodriver	INFO	Listening on 127.0.0.1:54515
+1727318874615	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileu1ffvb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1727318875101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1727318875330	Marionette	INFO	Listening on port 54526
+1727318875400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1727318906076	Marionette	INFO	Stopped listening on port 54526
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/normandy-recipes-capabilities list() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: (new Error("IndexedDB: main/nimbus-preview getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1727318967198	geckodriver	INFO	Listening on 127.0.0.1:55810
+1727318970384	mozrunner::runner	INFO	Running command: "C:\\Users\\Hello\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Hello\\AppData\\Local\\Temp\\rust_mozprofileRO7r7N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1727318970775	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1727318971111	Marionette	INFO	Listening on port 55818
+1727318971164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1727319156721	Marionette	INFO	Stopped listening on port 55818
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 100: Error: Unknown callback
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
